@@ -1,3 +1,8 @@
+<p align="right">
+<q><em>	Mama always said life was like a box of chocolates. You never know what you’re gonna get.</em></q><br>
+<cite>Forrest Gump. "Forrest Gump".</cite>
+</p>
+
 <h1 align="center">Hi there, I'm <a href="https://github.com/AlexanderOsipkin" target="_blank">Alexander</a> 👋</h1>
 <h3 align="center">Manual QA Engineer</h3>
 
