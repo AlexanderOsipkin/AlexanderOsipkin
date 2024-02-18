@@ -20,10 +20,10 @@ title="LinkedIn"></a></code>
 
 
 ## 👨‍🎓Education
-* SkillBox [[QA Engineer](https://img.hhcdn.ru/photo/639622226.jpeg?t=1708330237&h=xaibHm587Zk6jeSJ7Y7I4w)]
-* qa.guru [[Python AQA Engineer](https://github.com/AlexanderOsipkin/qa_guru_python_9_24)]
-* stepik.org
-* sololearn
+* <a target="_blank" href="https://skillbox.ru/">SkillBox</a> [[QA Engineer](https://img.hhcdn.ru/photo/639622226.jpeg?t=1708330237&h=xaibHm587Zk6jeSJ7Y7I4w)]
+* <a target="_blank" href="https://qa.guru">qa.guru</a> [[Python AQA Engineer](https://github.com/AlexanderOsipkin/qa_guru_python_9_24)]
+* <a target="_blank" href="https://stepik.org/">stepik</a>[[Profile](https://stepik.org/users/442207866/profile)]
+* <a target="_blank" href="https://www.sololearn.com">sololearn</a>[[Profile](https://www.sololearn.com/en/profile/25619433)]
 
 ## 💻Stack and tools
 
