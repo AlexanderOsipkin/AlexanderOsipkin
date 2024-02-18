@@ -15,7 +15,7 @@ title="headhunter"></a></code>
 target="blank"><img src="logo/habr.svg" height="40" width="40" 
 title="habr"></a></code>
 <code><a href="https://www.linkedin.com/in/aleksandr-osipkin/" 
-target="blank"><img src="LinkedIn_icon.svg" height="40" width="40" 
+target="blank"><img src="logo/LinkedIn_icon.svg" height="40" width="40" 
 title="LinkedIn"></a></code>
 
 
