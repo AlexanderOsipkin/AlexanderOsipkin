@@ -6,8 +6,18 @@
 - I speak Russian (native), English (B1)
 - How to reach me:
 
-<code><a href="https://t.me/AlexanderOsipkin"><img src="logo/Telegram.svg" width="40" height="40" title="My Telegram"></a></code> 
-  <code><a href="mailto:alexanderosipkin@gmail.com" target="blank"><img src="logo/Gmail.svg" height="40" width="40" title="My email"></a></code>
+<code><a href="https://t.me/AlexanderOsipkin"><img src="logo/Telegram.svg" width="40" height="40" title="My Telegram"></a></code>
+<code><a href="mailto:aleksandrosipkin@yandex.ru" target="blank"><img src="logo/Gmail.svg" height="40" width="40" title="My email"></a></code>
+<code><a href="https://spb.hh.ru/resume/4a2dede3ff090bf1f50039ed1f596552697232" 
+target="blank"><img src="logo/hh.png" height="40" width="40" 
+title="headhunter"></a></code>
+<code><a href="https://career.habr.com/aleksandrosipkin" 
+target="blank"><img src="logo/habr.svg" height="40" width="40" 
+title="habr"></a></code>
+<code><a href="https://www.linkedin.com/in/aleksandr-osipkin/" 
+target="blank"><img src="LinkedIn_icon.svg" height="40" width="40" 
+title="LinkedIn"></a></code>
+
 
 ## 👨‍🎓Education
 * SkillBox [[QA Engineer](https://img.hhcdn.ru/photo/639622226.jpeg?t=1708330237&h=xaibHm587Zk6jeSJ7Y7I4w)]
