@@ -26,12 +26,13 @@ title="LinkedIn"></a></code>
 
 
 ## 👨‍🎓Education
-* SKILLBOX   [[QA Engineer](https://img.hhcdn.ru/photo/639622226.jpeg?t=1708330237&h=xaibHm587Zk6jeSJ7Y7I4w)]
-* QA.GURU   [[Python AQA Engineer]()]
+* SkillBox   [[QA Engineer](https://img.hhcdn.ru/photo/639622226.jpeg?t=1708330237&h=xaibHm587Zk6jeSJ7Y7I4w)]
+* qa.guru   [[Python AQA Engineer]()]
   * [[Web and mobile automation testing project](https://github.com/AlexanderOsipkin/qa_guru_python_9_24)]
   * [[API automation testing project](https://github.com/AlexanderOsipkin/qa_guru_python_9_24_API)]
-* STEPIK   [[Profile](https://stepik.org/users/442207866/profile)]
-* SOLOLEARN   [[Profile](https://www.sololearn.com/en/profile/25619433)]
+* Stepik
+* Sololearn
+* PortSwigger
 
 ## 💻Stack and tools
 
