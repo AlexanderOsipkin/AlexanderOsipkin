@@ -15,24 +15,21 @@
 
 ## 💻Stack and tools
 
-<code><img src="images/logo/python.svg" width="40" height="40"  alt="A-d-am" title="Python"></code>
-<code><img src="images/logo/pytest.png" width="40" height="40"  alt="A-d-am" title="PyTest"></code>
-<code><img src="images/logo/selene.png" width="40" height="40"  alt="A-d-am" title="Selene"></code>
-<code><img src="images/logo/request.png" width="40" height="40"  alt="A-d-am" title="Request"></code>
-<code><img src="images/logo/webdriver4.png" width="40" height="40"  alt="A-d-am" title="Selenium WebDriver"></code>
-<code><img src="images/logo/pycharm.png" width="40" height="40"  alt="A-d-am" title="PyCharm"></code>
-<code><img src="images/logo/VStudio.svg" width="40" height="40"  alt="A-d-am" title="Visual Studio"></code>
-<code><img src="images/logo/android_studio.png" width="40" height="40"  alt="A-d-am" title="Android Studio"></code>
-<code><img src="images/logo/xcode.png" width="40" height="40"  alt="A-d-am" title="Xcode"></code>
-<code><img src="images/logo/Jenkins.svg" width="40" height="40"  alt="A-d-am" title="Jenkins"></code>
-<code><img src="images/logo/Selenoid.svg" width="40" height="40"  alt="A-d-am" title="Selenoid"></code>
-<code><img src="images/logo/Allure_new.png" width="40" height="40"  alt="A-d-am" title="Allure Report"></code>
-<code><img src="images/logo/allure_testops.png" width="40" height="40"  alt="A-d-am" title="Allure TestOps"></code>
-<code><img src="images/logo/docker.png" width="40" height="40"  alt="A-d-am" title="Docker"></code>
-<code><img src="images/logo/Telegram.svg" width="40" height="40"  alt="A-d-am" title="Telegram Bot"></code>
-<code><img src="images/logo/Git.svg" width="40" height="40" alt="A-d-am" title="Git"></code>
-<code><img src="images/logo/GitHub.svg" width="40" height="40"  alt="A-d-am" title="Github"></code>
-<code><img src="images/logo/Postman.svg" width="40" height="40" alt="A-d-am" title="Postman"></code> 
-<code><img src="images/logo/Browserstack.svg" width="40" height="40"  alt="A-d-am" title="BrowserStack"></code>
-<code><img src="images/logo/Jira.svg" width="40" height="40"  alt="A-d-am" title="Jira"></code>
-<code><img src="images/logo/confluence.png" width="40" height="40"  alt="A-d-am" title="Confluence"></code>
+<code><img src="logo/python.svg" width="40" height="40" title="Python"></code>
+<code><img src="logo/pytest.png" width="40" height="40" title="PyTest"></code>
+<code><img src="logo/selene.png" width="40" height="40" title="Selene"></code>
+<code><img src="logo/request.png" width="40" height="40" title="Request"></code>
+<code><img src="logo/pycharm.png" width="40" height="40" title="PyCharm"></code>
+<code><img src="logo/android_studio.png" width="40" alt="A-d-am" title="Android Studio"></code>
+<code><img src="logo/xcode.png" width="40" height="40" title="Xcode"></code>
+<code><img src="logo/Jenkins.svg" width="40" height="40" title="Jenkins"></code>
+<code><img src="logo/Selenoid.svg" width="40" height="40" title="Selenoid"></code>
+<code><img src="logo/Allure.svg" width="40" height="40" title="Allure Report"></code>
+<code><img src="logo/allure_testops.png" width="40" height="40" title="Allure TestOps"></code>
+<code><img src="logo/Telegram.svg" width="40" height="40" title="Telegram Bot"></code>
+<code><img src="logo/Git.svg" width="40" height="40" title="Git"></code>
+<code><img src="logo/GitHub.svg" width="40" height="40" title="Github"></code>
+<code><img src="logo/Postman.svg" width="40" height="40" title="Postman"></code> 
+<code><img src="logo/Browserstack.svg" width="40" alt="Browserstack" title="BrowserStack"></code>
+<code><img src="logo/Jira.svg" width="40" height="40" title="Jira"></code>
+<code><img src="logo/confluence.png" width="40" height="40" title="Confluence"></code>
