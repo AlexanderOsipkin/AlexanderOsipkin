@@ -2,9 +2,11 @@
 <h3 align="center">QA Engineer</h3>
 
 - More than 2 years in Quality Assurance
+- I’m currently learning QA, python, web
 - I speak Russian (native), English (B1)
-- <code><a href="https://t.me/AlexanderOsipkin"><img src="logo/Telegram.svg" width="40" height="40" title="My Telegram"></a></code>
-- <code><a href="mailto:alexanderosipkin@gmail.com" target="blank"><img src="logo/Gmail.svg" height="40" width="40" title="My email"></a></code>
+- How to reach me <code><a href="https://t.me/AlexanderOsipkin"><img 
+  src="logo/Telegram.svg" width="40" height="40" title="My Telegram"></a></code> 
+  <code><a href="mailto:alexanderosipkin@gmail.com" target="blank"><img src="logo/Gmail.svg" height="40" width="40" title="My email"></a></code>
 
 ## 👨‍🎓Education
 * SkillBox [[QA Engineer](https://img.hhcdn.ru/photo/639622226.jpeg?t=1708330237&h=xaibHm587Zk6jeSJ7Y7I4w)]
