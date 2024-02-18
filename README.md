@@ -1,10 +1,11 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/AlexanderOsipkin" target="_blank">Alexander</a> 👋</h1>
-<h3 align="center">QA Engineer</h3>
+<h3 align="center">Manual QA Engineer</h3>
 
-- More than 2 years in Quality Assurance
-- I’m currently learning python
-- I speak Russian (native), English (B1)
-- How to reach me:
+- ⭐ More than 2 years in Quality Assurance
+- 📚 I’m currently learning python
+- 💼 My current job position is a Middle QA Engineer
+- 🌍 I speak Russian (native), English (B1+)
+- 📧 How to reach me:
 
 <code><a href="https://t.me/AlexanderOsipkin"><img src="logo/Telegram.svg" width="40" height="40" title="My Telegram"></a></code>
 <code><a href="mailto:aleksandrosipkin@yandex.ru" target="blank"><img src="logo/Gmail.svg" height="40" width="40" title="My email"></a></code>
