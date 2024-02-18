@@ -12,7 +12,7 @@
 target="blank"><img src="logo/hh.png" height="40" width="40" 
 title="headhunter"></a></code>
 <code><a href="https://career.habr.com/aleksandrosipkin" 
-target="blank"><img src="logo/habr.svg" height="40" width="40" 
+target="blank"><img src="logo/habr.png" height="40" width="40" 
 title="habr"></a></code>
 <code><a href="https://www.linkedin.com/in/aleksandr-osipkin/" 
 target="blank"><img src="logo/LinkedIn_icon.svg" height="40" width="40" 
