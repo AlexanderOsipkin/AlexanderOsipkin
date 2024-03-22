@@ -1,5 +1,5 @@
 <p align="right">
-<q><em>	Mama always said life was like a box of chocolates. You never know what you’re gonna get.</em></q><br>
+<q><em>Mama always said life was like a box of chocolates. You never know what you’re gonna get.</em></q><br>
 <cite>Forrest Gump. "Forrest Gump".</cite>
 </p>
 
