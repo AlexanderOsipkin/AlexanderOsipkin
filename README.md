@@ -26,8 +26,8 @@ title="LinkedIn"></a></code>
 
 
 ## 👨‍🎓Education
-* SkillBox   [[QA Engineer](https://img.hhcdn.ru/photo/639622226.jpeg?t=1708330237&h=xaibHm587Zk6jeSJ7Y7I4w)]
-* qa.guru   [[Python AQA Engineer]()]
+* SkillBox   [[QA Engineer](https://imgur.com/NTRKFuX)]
+* qa.guru   [[Python AQA Engineer](https://imgur.com/6NfVda1)]
   * [[Web and mobile automation testing project](https://github.com/AlexanderOsipkin/qa_guru_python_9_24)]
   * [[API automation testing project](https://github.com/AlexanderOsipkin/qa_guru_python_9_24_API)]
 * stepik   [[Profile](https://stepik.org/users/442207866/profile)]
