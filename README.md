@@ -6,7 +6,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/AlexanderOsipkin" target="_blank">Alexander</a> 👋</h1>
 <h3 align="center">Manual QA Engineer</h3>
 
-- ⭐ More than 2 years in Quality Assurance
+- ⭐ More than 3 years in Quality Assurance
 - 📚 I’m currently learning python
 - 💼 My current job position is a Middle QA Engineer
 - 🌍 I speak Russian (native), English (B1+)
