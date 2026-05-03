@@ -8,7 +8,7 @@
 
 - ⭐ More than 4 years in Quality Assurance
 - 📚 I’m currently learning python & Java
-- 💼 My current job position is a Middle QA Engineer
+- 💼 My current job position is a Senior QA Engineer
 - 🌍 I speak Russian (native), English (B1+)
 - 📧 How to reach me:
 
