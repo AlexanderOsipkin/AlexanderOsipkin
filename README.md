@@ -7,8 +7,8 @@
 <h3 align="center">Manual QA Engineer</h3>
 
 - ⭐ More than 5 years in Quality Assurance
-- 📚 I’m currently learning python & Java
-- 💼 My current job position is a Senior QA Engineer
+- 🤖 Focused on test automation with Python & Java
+- 💼 Current position: Senior QA Engineer
 - 🌍 I speak Russian (native), English (B1+)
 - 📧 How to reach me:
 
