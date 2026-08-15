@@ -40,6 +40,7 @@ title="LinkedIn"></a></code>
 <code><img src="logo/python.svg" width="40" height="40" title="Python"></code>
 <code><img src="logo/pytest.png" width="40" height="40" title="PyTest"></code>
 <code><img src="logo/selene.png" width="40" height="40" title="Selene"></code>
+<code><img src="logo/bd7ef5d830a80878fc40331af933399d.png" width="40" height="40" title="Selene"></code>
 <code><img src="logo/request.png" width="40" height="40" title="Request"></code>
 <code><img src="logo/pycharm.png" width="40" height="40" title="PyCharm"></code>
 <code><img src="logo/android_studio.png" width="40" alt="A-d-am" title="Android Studio"></code>
