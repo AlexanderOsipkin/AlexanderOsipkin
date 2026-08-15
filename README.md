@@ -40,8 +40,8 @@ title="LinkedIn"></a></code>
 <code><img src="logo/python.svg" width="40" height="40" title="Python"></code>
 <code><img src="logo/pytest.png" width="40" height="40" title="PyTest"></code>
 <code><img src="logo/selene.png" width="40" height="40" title="Selene"></code>
-<code><img src="logo/bd7ef5d830a80878fc40331af933399d.png" width="40" height="40" title="Selene"></code>
-<code><img src="logo/playwright.png" width="40" height="40" title="Selene"></code>
+<code><img src="logo/bd7ef5d830a80878fc40331af933399d.png" width="40" height="40" title="Selenium"></code>
+<code><img src="logo/playwright.png" width="40" height="40" title="Playwright"></code>
 <code><img src="logo/request.png" width="40" height="40" title="Request"></code>
 <code><img src="logo/pycharm.png" width="40" height="40" title="PyCharm"></code>
 <code><img src="logo/android_studio.png" width="40" alt="A-d-am" title="Android Studio"></code>
@@ -53,7 +53,12 @@ title="LinkedIn"></a></code>
 <code><img src="logo/Telegram.svg" width="40" height="40" title="Telegram Bot"></code>
 <code><img src="logo/Git.svg" width="40" height="40" title="Git"></code>
 <code><img src="logo/GitHub.svg" width="40" height="40" title="Github"></code>
+<code><img src="logo/kafka.png" width="40" height="40" title="Kafka"></code>
 <code><img src="logo/Postman.svg" width="40" height="40" title="Postman"></code> 
 <code><img src="logo/Browserstack.svg" width="40" alt="Browserstack" title="BrowserStack"></code>
+<code><img src="logo/figma.png" width="40" alt="Browserstack" title="Figma"></code>
 <code><img src="logo/Jira.svg" width="40" height="40" title="Jira"></code>
 <code><img src="logo/confluence.png" width="40" height="40" title="Confluence"></code>
+<code><img src="logo/trello.png" width="40" height="40" title="Trello"></code>
+<code><img src="logo/Slack Icon.svg" width="40" height="40" title="slack"></code>
+
