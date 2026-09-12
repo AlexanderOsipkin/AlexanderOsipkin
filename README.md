@@ -21,7 +21,7 @@ title="headhunter"></a></code>
 <code><a href="https://career.habr.com/aleksandrosipkin" 
 target="blank"><img src="logo/habr.png" height="40" width="40" 
 title="habr"></a></code>
-<code><a href="https://www.linkedin.com/in/aleksandr-osipkin/" 
+<code><a href="https://www.linkedin.com/in/alexander-osipkin/" 
 target="blank"><img src="logo/LinkedIn_icon.svg" height="40" width="40" 
 title="LinkedIn"></a></code>
 
