@@ -6,7 +6,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/AlexanderOsipkin" target="_blank">Alexander</a> 👋</h1>
 <h3 align="center">QA Engineer | Manual & Automation</h3>
 
-- ⭐ More than 5 years in Quality Assurance
+- ⭐ More than 4 years in Quality Assurance
 - 🤖 Focused on test automation with Python
 - 🧪 Experienced in web, backend, API and mobile testing
 - 💼 Current position: Senior QA Engineer
