@@ -32,6 +32,8 @@ title="LinkedIn"></a></code>
   * [[Web and mobile automation testing project](https://github.com/AlexanderOsipkin/qa_guru_python_9_24)]
   * [[API automation testing project](https://github.com/AlexanderOsipkin/qa_guru_python_9_24_API)]
 * stepik   [[Profile](https://stepik.org/users/442207866/profile)]
+  * [[Python AQA Engineer](https://imgur.com/a/uj8XWHr)]
+    * [[Web automation testing project](https://github.com/AlexanderOsipkin/stepikEducationPetshop)]
 * sololearn   [[Profile](https://www.sololearn.com/en/profile/25619433)]
 * PortSwigger   [[Profile](https://portswigger.net/web-security)]
 
