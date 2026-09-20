@@ -34,6 +34,7 @@ title="LinkedIn"></a></code>
 * stepik   [[Profile](https://stepik.org/users/442207866/profile)]
   * [[Python AQA Engineer](https://imgur.com/a/uj8XWHr)]
     * [[Web automation testing project](https://github.com/AlexanderOsipkin/stepikEducationPetshop)]
+    * [[API automation testing project](https://github.com/AlexanderOsipkin/stepikEducationSwapi)]
 * sololearn   [[Profile](https://www.sololearn.com/en/profile/25619433)]
 * PortSwigger   [[Profile](https://portswigger.net/web-security)]
 
